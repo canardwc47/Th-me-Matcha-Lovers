@@ -1,0 +1,67 @@
+/*!
+Theme Name: Matcha-Lovers
+Theme URI: https://github.com/canardwc47/Th-me-Matcha-Lovers.git
+Author: Lucile
+Description: Let's create a new theme !
+Version: 1.0
+*/
+
+.body {
+    margin: 0px;
+}
+
+
+.background-image {
+   height: 80vh;
+    background-attachment: fixed;
+    background-size: cover;
+    background-position: top center;
+    color: #fff;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 60px 20px;
+    font-family: 'Lora', serif;
+}
+
+.background-image h1 {
+    font-size: 6em; /* Ajuste cette valeur pour augmenter la taille du titre */
+    margin: 0;
+}
+
+.background-image p {
+    font-size: 1.5em; /* Ajuste cette valeur pour la taille du sous-titre */
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+.custom-article {
+    max-width: 00px;
+    margin: 30px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    background-color: #f9f9f9;
+}
+
+.custom-article-image {
+    max-width: 50%;
+    height: auto;
+    display: block;
+    margin-bottom: 20px;
+}
+
+.custom-article-title {
+    font-size: 2em;
+    margin-bottom: 10px;
+    color: #333;
+}
+
+.custom-article-description {
+    font-size: 1.2em;
+    line-height: 1.6;
+    color: #555;
+}
+
